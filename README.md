@@ -1,4 +1,4 @@
-Hi 👋 My name is Salisu Ibrahim
+Hi 👋 My name is Salisu Ibrahim with bachelor's degree in computer science and National Diploma in Statistics passionate about learning Data Analysis and Data Science to solve a real-life problem with proficiency in Microsoft Excel, Power BI, Tableau, SQL and Python.
 ===============================
 
 Data Analyst / Data Scientist
